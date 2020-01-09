@@ -1,2 +1,2 @@
-# ABTesting
-A complete guide for all you need to know about AB Testing (incomplete)
+# AB Testing
+This is a complete guide for AB testing (split testing). This is ongoing project and is currently incomplete.
