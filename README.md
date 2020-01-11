@@ -13,7 +13,7 @@ The different topics we cover in this project are below. The toy example is buil
 7. Profit maximizing of A/B Testing (Marketing Science article)
 
 ## Explaning the data for the toy example
-The dataset for the topy example is a simple dataset taken from kaggle (link shown in the next section). 
+The dataset for the topy example is a simple dataset taken from kaggle (link shown in the next section). The data set contains information such as unit of diversion (userid), time stamp, group of a user (control or treatment), landing page (new or old) and converted (yes/no). Landing page for control group should always be the old page and for the treatment group should be the new page. 
 
 ## Resources
 1. Udacity free course on A/B Testing
