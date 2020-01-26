@@ -1,6 +1,5 @@
 # AB Testing
 This is a theoretical guide with an interactive toy example for AB testing (split testing). We go through different topics of A/B testing -- how to choose the metrics, design the experiments and analyze the results after running the experiments. We also cover some statistical background required for A/B testing. We build an interactive toy example to learn how to analyze results from A/B testing.
-NOTE: This is ongoing project and I am currently working on it.
 
 ## Contents
 The different topics we cover in this project are below. The toy example is built along with the theoretical background.
